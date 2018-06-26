@@ -1,0 +1,11 @@
+Package: graph.Size.Estimator
+Title: Estimators Of Sizes of Large Graphs
+Version: 0.0.0.9000
+Authors@R: person("Jeffrey", "Chu", email = "jeffrey.chu@manchester.ac.uk", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
+Imports: igraph, ggplot2
